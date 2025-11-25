@@ -83,3 +83,4 @@ Para rodar o Organiza+ em sua máquina local, certifique-se de ter o Flutter ins
 
 * Guilherme Silva Piantamar - 638205
 * Nikolas Dalton Perassoli Varella - 636010
+* Yukio Marques Mawatari - 638262
